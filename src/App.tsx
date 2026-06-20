@@ -140,7 +140,7 @@ export default function App() {
             </a>
             <span className="text-stone-800">|</span>
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/hamdanelahi" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="hover:text-[#ffb596] flex items-center gap-1.5 transition-colors"
@@ -149,7 +149,7 @@ export default function App() {
             </a>
             <span className="text-stone-800">|</span>
             <a 
-              href="https://github.com" 
+              href="https://github.com/HamdanElahi" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="hover:text-[#ffb596] flex items-center gap-1.5 transition-colors"
