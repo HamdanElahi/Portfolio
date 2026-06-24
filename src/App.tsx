@@ -149,12 +149,12 @@ export default function App() {
             </a>
             <span className="text-stone-800">|</span>
             <a 
-              href="https://github.com/HamdanElahi" 
+              href="https://www.fiverr.com/s/o8brx3A" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="hover:text-[#ffb596] flex items-center gap-1.5 transition-colors"
             >
-              <Github className="w-3.5 h-3.5 text-[#ff6d1f]" /> GitHub Repo
+              <Github className="w-3.5 h-3.5 text-[#ff6d1f]" /> Fiverr
             </a>
           </div>
 
