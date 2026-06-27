@@ -149,7 +149,7 @@ export default function App() {
             </a>
             <span className="text-stone-800">|</span>
             <a 
-              href="https://www.fiverr.com/s/o8brx3A" 
+              href="http://www.fiverr.com/s/NNRR0zZ" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="hover:text-[#ffb596] flex items-center gap-1.5 transition-colors"
